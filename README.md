@@ -23,29 +23,32 @@ Gosto de entender problemas reais e ajudar a construir soluções que façam sen
 
 ## ⚡ Atualmente
 
-- 🔨 **Construindo:** Sistema de gestão pedagógica para o Espaço Santa Terezinha
-- 📊 **Pesquisando:** Aplicações de IA no setor de energia pelo programa Ignição (Petrobras)
-- 🧠 **Supervisionando:** Trilhas GMAT e Crack the Case no Consulting Club PUC-Rio
+- 🎨 **Construindo:** Portfólio pessoal em pixel art
+- 🌐 **Desenvolvendo:** Site para uma liga de comércio
+- 💡 **Pesquisando:** IA aplicada à indústria de energia pelo Ignição (Petrobras)
 
 ---
 
 ## 🚀 Projetos
 
-### 🏫 Santa Terezinha System
-**Sistema de gestão pedagógica para uma escola comunitária.**
+### 🎨 Portfólio
+**Portfólio pessoal com identidade em pixel art.**
 
-Desenvolvido com Antonio para digitalizar e organizar o acompanhamento dos alunos do Espaço Santa Terezinha.
-
-`Produto` `Gestão` `Educação`
+`Design` `Web` `Pixel Art`
 
 ---
 
-### 💡 Ignição Petrobras
-**Programa de inovação em parceria com Petrobras e ECOA PUC-Rio.**
+### 🌐 Site Liga de Comércio
+**Site institucional para uma liga universitária de comércio, com publicações frequentes pelo marketing da liga.**
 
-Atuo como ProdOps desenvolvendo pesquisas sobre soluções tecnológicas para necessidades reais da indústria de energia.
+`Web` `Produto` `Gestão`
 
-`AI` `Produto` `Energia` `Pesquisa`
+---
+
+### 💡 Sinapse — Ignição Petrobras
+**Projeto desenvolvido no programa de inovação Ignição, em parceria com Petrobras e ECOA PUC-Rio.**
+
+`AI` `Energia` `Pesquisa`
 
 ---
 
@@ -66,7 +69,7 @@ Atuo como ProdOps desenvolvendo pesquisas sobre soluções tecnológicas para ne
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-fernandes-nunes)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianafernandesnunes07@gmail.com)
 
 *Estratégia que funciona — e que faz sentido para quem usa.*
