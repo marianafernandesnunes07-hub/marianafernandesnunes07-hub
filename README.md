@@ -17,7 +17,7 @@
 
 Sou estudante de **Administração na PUC-Rio**, com interesse na interseção entre **estratégia, produto e tecnologia**.
 
-Gosto de entender problemas reais e ajudar a construir soluções que façam sentido para quem as usa — seja através de análise, gestão ou desenvolvimento de produto.
+Gosto de entender problemas reais e ajudar a construir soluções que façam sentido para quem as usa, seja através de análise, gestão ou desenvolvimento de produto.
 
 ---
 
